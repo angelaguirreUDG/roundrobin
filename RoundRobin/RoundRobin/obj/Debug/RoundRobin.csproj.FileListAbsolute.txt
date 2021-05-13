@@ -1,0 +1,10 @@
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.exe.config
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.exe
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\bin\Debug\RoundRobin.pdb
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csprojAssemblyReference.cache
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.Form1.resources
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.Properties.Resources.resources
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csproj.GenerateResource.cache
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.exe
+C:\Users\AngelAguirre\Documents\2021A\Sistemas Operativos\RoundRobin\RoundRobin\obj\Debug\RoundRobin.pdb
